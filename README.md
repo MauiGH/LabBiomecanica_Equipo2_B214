@@ -2,6 +2,7 @@
 Laboratorio de Biomecanica 
 Martes V2 Brigada 214
 Equipo 2:
+
 Mauricio Guerrero Hernandez 
 
 Maria de los Angeles Puente Peña
